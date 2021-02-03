@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#others
+test_input/*
+test_input_disabled/*
+test_LLVM_code/*
+test_output/*
+test_output_terceiros/*
+*.zip
+.DS_Store
+uccompiler
